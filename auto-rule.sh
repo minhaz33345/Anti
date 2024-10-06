@@ -2,5 +2,5 @@
 while true
 do
 bash <(curl -Ls https://raw.githubusercontent.com/minhaz33345/Anti/main/anti.sh)
-sleep 0
+sleep 1
 done
