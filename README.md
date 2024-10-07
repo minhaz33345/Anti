@@ -1,17 +1,15 @@
 ## Chương trình quản lý auto on/off rules cloudflare
 ### ***Cài đặt***
 ```
-wget https://raw.githubusercontent.com/minhaz33345/Anti/main/install-api.sh
+bash <(curl -Ls https://raw.githubusercontent.com/minhaz33345/Anti/main/install-api)
 ```
-```
-bash install-api.sh
-```
+
 ### ***Config***
 
 
 GET rule
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/minhaz33345/Anti/main/get-rules.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/minhaz33345/Anti/main/get-rules)
 ```
 
 Cấu trúc GET rules
